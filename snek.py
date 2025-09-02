@@ -1,3 +1,5 @@
+## This is totally unrelated and vibe-coded. Almost certainly terribly coded as I tried to add random features as I thought of them.
+
 import pygame
 import random
 import sys
